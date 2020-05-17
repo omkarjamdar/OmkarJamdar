@@ -1,3 +1,3 @@
 # OmkarJamdar
 
-Repository C programs
+Repository For C programs
